@@ -1,0 +1,82 @@
+[
+    {
+        "image": "assets/ulkeler/images/ar.png",
+        "name": "Arjantin"
+    },
+    {
+        "image": "assets/ulkeler/images/az.png",
+        "name": "Azerbaycan"
+    },
+    {
+        "image": "assets/ulkeler/images/ba.png",
+        "name": "Bosna Hersek"
+    },
+    {
+        "image": "assets/ulkeler/images/be.png",
+        "name": "Belçika"
+    },
+    {
+        "image": "assets/ulkeler/images/br.png",
+        "name": "Brazilya"
+    },
+    {
+        "image": "assets/ulkeler/images/ch.png",
+        "name": "İsviçre"
+    },
+    {
+        "image": "assets/ulkeler/images/cn.png",
+        "name": "Çin"
+    },
+    {
+        "image": "assets/ulkeler/images/es.png",
+        "name": "İspanya"
+    },
+    {
+        "image": "assets/ulkeler/images/fi.png",
+        "name": "Finlandiya"
+    },
+    {
+        "image": "assets/ulkeler/images/fr.png",
+        "name": "Fransa"
+    },
+    {
+        "image": "assets/ulkeler/images/gb.png",
+        "name": "Birleşik Krallık"
+    },
+    {
+        "image": "assets/ulkeler/images/il.png",
+        "name": "İsrail"
+    },
+    {
+        "image": "assets/ulkeler/images/jp.png",
+        "name": "Japonya"
+    },
+    {
+        "image": "assets/ulkeler/images/kr.png",
+        "name": "Güney Kore"
+    },
+    {
+        "image": "assets/ulkeler/images/no.png",
+        "name": "Norveç"
+    },
+    {
+        "image": "assets/ulkeler/images/pt.png",
+        "name": "Portekiz"
+    },
+    {
+        "image": "assets/ulkeler/images/ru.png",
+        "name": "Rusya"
+    },
+    {
+        "image": "assets/ulkeler/images/tr.png",
+        "name": "Türkiye"
+    },
+    {
+        "image": "assets/ulkeler/images/ua.png",
+        "name": "Ukranya"
+    },
+    {
+        "image": "assets/ulkeler/images/us.png",
+        "name": "Amerika Birleşik Devleti"
+    }
+]
